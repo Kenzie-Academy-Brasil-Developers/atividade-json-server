@@ -1,1 +1,1 @@
-# react-atividade-s5-template-JSON-Server
+# Game List API
